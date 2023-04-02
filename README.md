@@ -8,3 +8,14 @@ Our project is **feminism and its affects on marriage**, we've taken samples fro
 - Shnya Mahmod
 - Karin Taha
 - Shanya Tariq
+
+# questions 
+- age
+- gendar
+- stage
+- martial status 
+- location
+- college
+- do you support feminism
+- are a membet from womens organization
+- does feminism affect divorce and family problems 
